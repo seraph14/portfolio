@@ -62,8 +62,8 @@ const experiences = [
     description:
       'Managing project development for Atrons: a platform developed by the group to share educational resources for free.',
     stack: ['Flutter', 'Dart', 'Vue.js', 'Leadership', 'DSA'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://github.com/',
+    livePreview: 'https://github.com/',
   },
 ]
 
