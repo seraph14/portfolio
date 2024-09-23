@@ -63,7 +63,7 @@ const experiences = [
       'PlayerTrader (www.playertrader.net) is a fantasy sports website with data-driven analytics. Developed, maintained, and enhanced backend and frontend features of the platform.',
     stack: ['Flutter', 'Dart', 'Vue.js', 'Leadership', 'DSA'],
     sourceCode: 'https://github.com/',
-    livePreview: 'https://github.com/',
+    livePreview: 'https://www.playertrader.net/',
   },
 ]
 
