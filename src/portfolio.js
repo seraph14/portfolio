@@ -51,17 +51,44 @@ const experiences = [
   // if there are no projects, Projects section won't show up
   {
     name: 'Software Engineer, A2SV',
-    description:
-      'Atrons - Educational Resource Sharing Platform Led the development of Atrons, a mobile and web platform built using Python and React/Next.js that empowers users with free educational resources. The project was awarded $8,000 by a jury led by Dr. Jelani Nelson and Ricardo Baeza-Yates. AKIL - Connecting NPOs & Volunteers Contributed to the entire software development lifecycle of an MVP. Built RESTful APIs using GO. Head of Education - Educator Led interview preparation sessions in Python, delivered clear explanations to resolve doubts and provided individualized guidance through 1:1 mentorship.',
-    stack: ['Django', 'Next.js', 'React.js', 'TailwindCSS', 'Flutter', 'Dart', 'Bloc'],
+    description: `
+• Atrons - Educational Resource Sharing Platform
+  • Led the development of Atrons, a mobile and web platform built using Python and React/Next.js that empowers users with free educational resources. The project was awarded $8,000 by a jury led by Dr. Jelani Nelson and Ricardo Baeza-Yates.
+  
+• AKIL - Connecting NPOs & Volunteers
+  • Contributed to the entire software development lifecycle of an MVP. Developing the mobile app with Flutter and integrating RESTful APIs using Go.
+  
+• Head of Education - Educator
+  • Led interview preparation sessions in Python, delivered clear explanations to resolve doubts, and provided individualized guidance through 1:1 mentorship.
+`,
+    stack: [
+      'Django',
+      'Flutter',
+      'React.js',
+      'Dart',
+      'Python',
+      'GO',
+      'Javascript',
+      'Typescript',
+    ],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
   {
     name: 'Software Engineer, PlayerTrader',
-    description:
-      'PlayerTrader (www.playertrader.net) is a fantasy sports website with data-driven analytics. Developed, maintained, and enhanced backend and frontend features of the platform.',
-    stack: ['Flutter', 'Dart', 'Vue.js', 'Leadership', 'DSA'],
+    description: `
+• PlayerTrader (www.playertrader.net) is a fantasy sports website with data-driven analytics.
+  • Developed, maintained, and enhanced backend and frontend features of the platform.
+`,
+    stack: [
+      'Typescript',
+      'Next.js',
+      'Node.js',
+      'TailwindCSS',
+      'React.js',
+      'Firebase',
+      'Vercel',
+    ],
     sourceCode: 'https://github.com/',
     livePreview: 'https://www.playertrader.net/',
   },
